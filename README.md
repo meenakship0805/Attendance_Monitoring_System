@@ -1,6 +1,6 @@
 Attendance Monitor — Face Recognition + Liveness Detection
 
-Live demo: https://attendancemonitoringsystem-nsrd2bx5skzyikq5heyk7p.streamlit.app/
+Live demo: https://attendancemonitoringsystem.streamlit.app/
 Demo login: admin / password
 
 Face recognition attendance system with blink-based anti-spoofing, ported from a
