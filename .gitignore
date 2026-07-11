@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+student_photos/
+student_data.xlsx
+attendance_records.xlsx
+trained_model.yml
+.streamlit/secrets.toml
+diagnostic_result.jpg
